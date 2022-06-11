@@ -1,0 +1,112 @@
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.login-form-1{
+    
+    background-repeat: no-repeat; 
+    background-image: url("/assets/sv/cnx.JPG");
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-2{
+    margin-top: 80px;
+    padding: 5%;
+    background: #fff;
+    
+}
+.login-form-2 h3{
+    text-align: center;
+    color: #241A3C ;
+}
+
+.login-container form{
+    padding: 10%;
+    
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+.login-form-2 .btnSubmit{
+    background-image: linear-gradient(to left,#FCB957,#E869B6);
+    border: 0px solid white;
+    color: #fff;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.login-form-2 .ForgetPwd{
+    color:#241A3C;
+    font-weight: 300;
+    text-decoration: underline;
+    margin-left: 118px;
+}
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon-uti .glyphicon {
+  position: absolute;
+  padding: 14px;
+  pointer-events: none;
+  background-image: url("/assets/sv/uti.jpg");
+  margin-top: 5px;
+  margin-left: 2px;
+  margin-right: 4px;
+}
+
+/* align icon */
+
+.left-addon-uti .glyphicon  { left:  0px;}
+.right-addon-uti .glyphicon { right: 0px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }
+.inner-addon-uti .glyphicon {
+  position: absolute;
+  padding: 14px;
+  pointer-events: none;
+  background-image: url("/assets/sv/uti.jpg");
+  margin-top: 5px;
+  margin-left: 2px;
+  margin-right: 4px;
+}
+
+/* align icon */
+
+.left-addon-uti .glyphicon  { left:  0px;}
+.right-addon-uti .glyphicon { right: 0px;}
+
+
+
+
+
+.inner-addon-pass .glyphicon {
+    position: absolute;
+    padding: 12px;
+    pointer-events: none;
+    background-image: url("/assets/sv/pass.jpg");
+    margin-top: 5px;
+    margin-left: 2px;
+    margin-right: 4px;
+  }
+  
+  /* align icon */
+  
+  .left-addon-pass .glyphicon  { left:  0px;}
+  .right-addon-pass .glyphicon { right: 0px;}
+
+

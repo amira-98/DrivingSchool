@@ -1,0 +1,185 @@
+#why-us {
+    padding: 60px 0;
+    background-image: url("/assets/sv/back.jpg");
+   
+  }
+  
+  #why-us .section-header h3,
+  #why-us .section-header p {
+    color: #fff;
+  }
+  
+  #why-us .card {
+    background: #fff;
+    border-color: #707070;
+    border-radius: 15px;
+    margin: 0 15px;
+    padding: 10px 0;
+    color: #241A3C;
+    text-align: center;
+    
+  }
+  
+  #why-us .card:hover {
+    background: #FCB957;
+    border-color: #EF8216;
+    
+  }
+  
+  #why-us .card i {
+    font-size: 48px;
+    padding-top: 15px;
+    color: #241A3C;
+  }
+  
+  #why-us .card .card-title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 2px;
+    text-align: center;
+    font-size: 20px;
+    
+  }
+  
+  #why-us .card p {
+    font-size: 15px;
+    color: #241A3C;
+    text-align: center;
+    font-size: 17px;
+    
+  }
+  
+  #why-us .card .readmore {
+    color: #241A3C;
+    font-weight: 600;
+    display: inline-block;
+    transition: 0.3s ease-in-out;
+    border-bottom: #EF8216 solid 2px;
+    font-size: 25px;
+    
+  }
+  
+  #why-us .card .readmore:hover {
+    border-bottom: #fff solid 2px;
+  
+
+  }
+  
+  #why-us .counters {
+    padding-top: 40px;
+  }
+  
+  #why-us .counters span {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    display: block;
+    color: #241A3C;
+  }
+  
+  #why-us .counters p {
+    padding: 0;
+    margin: 0 0 20px 0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    color: #241A3C;
+  }
+  #why-us .card h2 {
+      color: #E869B6;
+      text-align: center;
+      font-size: 50px;
+  }
+  .card-body {
+    
+  
+    
+    margin-top: 3px;
+
+}
+
+
+ 
+#intro {
+    
+    width: 100%;
+    position: relative;
+    background: white;
+    background-size: cover;
+    padding: 100px 0 0 0;
+  }
+  
+  #intro .intro-img {
+    width: 50%;
+    float: right;
+  
+
+  }
+  
+  #intro .intro-info {
+    margin-top: 80px;
+    width: 50%;
+    float: left;
+  }
+  
+  #intro .intro-info h2 {
+    color:#241A3C;
+    
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 100px;
+    font-size: 30px;
+    margin-left: 20px;
+     
+  }
+  
+  #intro .intro-info h3 {
+    color:  #FCB957;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: 700;
+  }
+  #intro .intro-info h4 {
+    color:#241A3C;
+    
+    font-size: 25px;
+    margin-top: 20px;
+    font-weight: 400;
+    margin-left: 200px;
+  }
+  
+  #intro .intro-info .btn-get-started,
+  #intro .intro-info .btn-services {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 50px;
+    transition: 0.8s;
+    margin-left: 40px;
+    color: #fff;
+
+  }
+  
+  #intro .intro-info .btn-get-started {
+    background-image: linear-gradient(to left,#FCB957,#E869B6);
+    border: 0px solid white;
+    color: #fff;
+  
+  }
+  
+  /*#intro .intro-info .btn-get-started:hover {
+    background: grey;
+   
+    color: #fff;
+  }*/
+  
+  #intro .intro-info .btn-services {
+    
+    background: white ;
+    color:#E869B6;
+    border: 2px solid #E869B6;
+  }
+  

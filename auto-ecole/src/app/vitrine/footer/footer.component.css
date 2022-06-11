@@ -1,0 +1,37 @@
+
+  #decor .footer {
+ 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url("/assets/sv/ft.JPG");
+    padding: 65px;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+  }
+  #decor h3{
+      color: #EF8216;
+      margin-top: 260px;
+      margin-left: 20px;
+      font-size: 25px;
+  }
+  
+  #decor p{
+      color: #fff;
+      margin-left: 20px;
+  }
+  .column1 {
+   
+    float: left;
+    width: 40%;
+   
+  }
+  .column2 {
+    float: center;
+    width: 40%;
+  
+  }
+  
+  
+  
